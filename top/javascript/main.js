@@ -35,7 +35,7 @@ links.forEach(function(link){
         //timer
         setTimeout(function(){
             //mover entre documentos
-            location.href = "/";
+            location.href = "/top";
         },600);
         return false;
     });
